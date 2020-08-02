@@ -1,0 +1,2 @@
+  该压缩文件中有五个txt格式文件，其中一个是本文件，另外三个分别为borrow、information、library，分别储存着借阅信息、会员信息、书籍信息，还有一个SZXS-LIMS是使用txt格式存放着管理系统的C代码。
+  还有一个c文件SZXS-LIMS，一个exe文件SZXS-LIMS，一个pdf文件
